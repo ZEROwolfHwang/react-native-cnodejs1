@@ -1,3 +1,6 @@
+用到了redux-sage  实现聊天功能
+
+
 # react-native 实现cnodejs客户端
 
 首页和详情页UI参考 https://github.com/shinygang/Vue-cnodejs
